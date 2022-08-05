@@ -1,0 +1,17 @@
+{
+  "Author": "Nuko",
+  "Name": "S怪触发小助手",
+  "InternalName": "RankSSpawnHelper",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "一个触发S怪用的小工具",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
+  "Tags": [
+    "S怪触发",
+    "触发",
+    "S怪"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Changelog": "-1.1.0:\n 增加了联网农怪,目前仍在测试中,如有问题请到Github新建Issue\n 服务器后端: https://github.com/NukoOoOoOoO/ServerThingy"
+}
