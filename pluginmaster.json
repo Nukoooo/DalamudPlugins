@@ -1,0 +1,25 @@
+[
+    {
+        "Author": "Nuko",
+        "Name": "S怪触发小助手-Extra",
+        "Description": "一个触发S怪用的小工具",
+        "Changelog": "Extraaaa",
+        "InternalName": "RankSSpawnHelper-Extra",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "S怪触发",
+            "触发",
+            "S怪"
+        ],
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1659707143"
+    }
+]
