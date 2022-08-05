@@ -1,0 +1,17 @@
+{
+  "Author": "Nuko",
+  "Name": "S怪触发小助手-Extra",
+  "InternalName": "RankSSpawnHelper-Extra",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "一个触发S怪用的小工具",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
+  "Tags": [
+    "S怪触发",
+    "触发",
+    "S怪"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Changelog": "Extraaaa"
+}
