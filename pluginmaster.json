@@ -14,13 +14,13 @@
             "S怪"
         ],
         "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/main/plugins/RankSSpawnHelper/latest.zip",
+        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/main/plugins/RankSSpawnHelper/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/main/plugins/RankSSpawnHelper/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1659707330"
+        "LastUpdate": "1659850623"
     },
     {
         "Author": "Aireil",
@@ -43,12 +43,12 @@
         "ImageUrls": [
             "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/banner.png"
         ],
-        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/main/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/main/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/main/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1659707330"
+        "LastUpdate": "1659850623"
     }
 ]
