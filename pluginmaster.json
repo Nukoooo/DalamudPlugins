@@ -3,9 +3,9 @@
         "Author": "Nuko",
         "Name": "S怪触发小助手",
         "Description": "一个触发S怪用的小工具",
-        "Changelog": "-1.1.1:\n 增加新的事件，需要测试",
+        "Changelog": "-1.1.2:\n 联网计数公测.有问题/意见到Github上开issue反馈",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.1.1.0",
+        "AssemblyVersion": "1.1.2.0",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1659942922"
+        "LastUpdate": "1659962223"
     },
     {
         "Author": "Aireil",
@@ -49,6 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1659942922"
+        "LastUpdate": "1659962223"
     }
 ]
