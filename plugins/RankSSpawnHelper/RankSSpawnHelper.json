@@ -2,7 +2,7 @@
   "Author": "Nuko",
   "Name": "S怪触发小助手",
   "InternalName": "RankSSpawnHelper",
-  "AssemblyVersion": "1.1.1.0",
+  "AssemblyVersion": "1.1.2.0",
   "Description": "一个触发S怪用的小工具",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
@@ -13,5 +13,5 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Changelog": "-1.1.1:\n 增加新的事件，需要测试"
+  "Changelog": "-1.1.2:\n 联网计数公测.有问题/意见到Github上开issue反馈"
 }
