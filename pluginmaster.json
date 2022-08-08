@@ -3,9 +3,9 @@
         "Author": "Nuko",
         "Name": "S怪触发小助手",
         "Description": "一个触发S怪用的小工具",
-        "Changelog": "-1.7.3:\n 增加了联网农怪,目前仍在测试中,如有问题请到Github新建Issue\n 服务器后端: https://github.com/NukoOoOoOoO/ServerThingy",
+        "Changelog": "-1.1.1:\n 增加新的事件，需要测试",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.1.0",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1659850623"
+        "LastUpdate": "1659942922"
     },
     {
         "Author": "Aireil",
@@ -49,6 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1659850623"
+        "LastUpdate": "1659942922"
     }
 ]
