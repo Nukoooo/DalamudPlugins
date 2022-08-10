@@ -2,7 +2,7 @@
   "Author": "Nuko",
   "Name": "S怪触发小助手",
   "InternalName": "RankSSpawnHelper",
-  "AssemblyVersion": "1.1.2.3",
+  "AssemblyVersion": "1.1.2.4",
   "Description": "一个触发S怪用的小工具",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
@@ -13,5 +13,5 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Changelog": "-1.1.2:\n    联网计数公测.有问题/意见到Github上开issue反馈\n-1.1.2.1:\n    修复指令在unload的时候不会释放掉的bug\n-1.1.2.2:\n    适配API6\n    现在会自动连接到临时服务器,如果不想连的话随便输一个链接就好"
+  "Changelog": "-1.1.2.2:\n    适配API6\n    现在会自动连接到临时服务器,如果不想连的话随便输一个链接就好\n-1.1.2.3:\n    在触发成功时会发消息\n    现在即使不连服务器，在输入/ggnore时也会发计数详情"
 }
