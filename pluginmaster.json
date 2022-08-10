@@ -3,9 +3,9 @@
         "Author": "Nuko",
         "Name": "S怪触发小助手",
         "Description": "一个触发S怪用的小工具",
-        "Changelog": "-1.1.2.2:\n    适配API6\n    现在会自动连接到临时服务器,如果不想连的话随便输一个链接就好\n-1.1.2.3:\n    在触发成功时会发消息\n    现在即使不连服务器，在输入/ggnore时也会发计数详情\n-1.1.2.4:\n    增加关闭连接成功提示的选项",
+        "Changelog": "-1.1.2.2:\n    适配API6\n    现在会自动连接到临时服务器,如果不想连的话随便输一个链接就好\n-1.1.2.3:\n    在触发成功时会发消息\n    现在即使不连服务器，在输入/ggnore时也会发计数详情\n-1.1.2.4:\n    增加关闭连接成功提示的选项\n-1.1.2.5:\n    现在消息提示的Github链接可以打开网页了",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.1.2.4",
+        "AssemblyVersion": "1.1.2.5",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1660103825"
+        "LastUpdate": "1660106256"
     },
     {
         "Author": "Aireil",
@@ -49,6 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1660103825"
+        "LastUpdate": "1660106256"
     }
 ]
