@@ -3,9 +3,9 @@
         "Author": "Nuko",
         "Name": "S怪触发小助手-Extra",
         "Description": "一个触发S怪用的小工具",
-        "Changelog": "Extraaaa",
+        "Changelog": "Extraaaa to API6",
         "InternalName": "RankSSpawnHelper-Extra",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,6 +20,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1659707955"
+        "LastUpdate": "1660096443"
     }
 ]
