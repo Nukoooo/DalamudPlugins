@@ -2,7 +2,7 @@
   "Author": "Nuko",
   "Name": "S怪触发小助手-Extra",
   "InternalName": "RankSSpawnHelper-Extra",
-  "AssemblyVersion": "1.0.0.2",
+  "AssemblyVersion": "1.0.0.3",
   "Description": "一个触发S怪用的小工具",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
@@ -13,5 +13,5 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Changelog": "Extraaaa to API6"
+  "Changelog": "- 1.0.0.3:\n\t青魔消debuff的地图换成假火神\n\t增加了定ET和ET喊话的功能"
 }
