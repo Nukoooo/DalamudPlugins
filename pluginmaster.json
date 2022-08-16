@@ -3,9 +3,9 @@
         "Author": "Nuko",
         "Name": "S怪触发小助手-Extra",
         "Description": "一个触发S怪用的小工具",
-        "Changelog": "- 1.0.0.3:\n\t青魔消debuff的地图换成假火神\n\t增加了定ET和ET喊话的功能",
+        "Changelog": "- 1.0.0.4:\n\t修复定ET会提示S怪不存在以及位置错误的bug",
         "InternalName": "RankSSpawnHelper-Extra",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,6 +20,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1660395646"
+        "LastUpdate": "1660632182"
     }
 ]
