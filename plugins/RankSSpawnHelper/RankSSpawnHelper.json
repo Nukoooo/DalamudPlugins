@@ -2,7 +2,7 @@
   "Author": "Nuko",
   "Name": "S怪触发小助手",
   "InternalName": "RankSSpawnHelper",
-  "AssemblyVersion": "1.1.2.8",
+  "AssemblyVersion": "1.1.2.9",
   "Description": "一个触发S怪用的小工具",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
@@ -13,5 +13,5 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Changelog": "-1.1.2.8:\n\t增加了查询S怪情况的功能(暂不支持多线)"
+  "Changelog": "-1.1.2.9:\n\t查询S怪情况现已支持多线\n\t计数窗口现在可以调整大小了\n\t修复刚哥计数器的bug\n\t增加本地计数器显示"
 }
