@@ -3,9 +3,9 @@
         "Author": "Nuko",
         "Name": "S怪触发小助手",
         "Description": "一个触发S怪用的小工具",
-        "Changelog": "-1.1.2.8:\n\t增加了查询S怪情况的功能(暂不支持多线)",
+        "Changelog": "-1.1.2.9:\n\t查询S怪情况现已支持多线\n\t计数窗口现在可以调整大小了\n\t修复刚哥计数器的bug\n\t增加本地计数器显示",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.1.2.8",
+        "AssemblyVersion": "1.1.2.9",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1660636779"
+        "LastUpdate": "1660985109"
     },
     {
         "Author": "Aireil",
@@ -49,6 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1660636779"
+        "LastUpdate": "1660985109"
     }
 ]
