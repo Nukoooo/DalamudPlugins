@@ -20,16 +20,16 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661058023"
+        "LastUpdate": "1661351446"
     },
     {
         "Author": "Aireil",
         "Name": "FF Logs Viewer",
         "Punchline": "在游戏里查看玩家在FFLogs上的数据的插件。",
         "Description": "在游戏里查看玩家在FFLogs上的数据的插件。",
-        "Changelog": "- 2.0.4.5: Penumbra API + library change for context menu button.\n- 2.0.4.5-hc: 更改了 Github 仓库的链接\n- 2.0.4.5-hc2: 增加职业名翻译",
+        "Changelog": "同步上游更新,进行相对应的更新",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.0.4.5",
+        "AssemblyVersion": "2.0.6.1",
         "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -49,6 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661058023"
+        "LastUpdate": "1661351446"
     }
 ]
