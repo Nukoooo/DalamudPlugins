@@ -3,9 +3,9 @@
         "Author": "Nuko",
         "Name": "S怪触发小助手-Extra",
         "Description": "一个触发S怪用的小工具",
-        "Changelog": "- 1.0.0.5:\n\tthese nuts",
+        "Changelog": "- 1.0.0.6:\n\t增加了自动召宠物的功能",
         "InternalName": "RankSSpawnHelper-Extra",
-        "AssemblyVersion": "1.0.0.5",
+        "AssemblyVersion": "1.0.0.6",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,6 +20,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661058422"
+        "LastUpdate": "1661581720"
     }
 ]
