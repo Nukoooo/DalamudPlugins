@@ -2,7 +2,7 @@
   "Author": "Nuko",
   "Name": "S怪触发小助手-Extra",
   "InternalName": "RankSSpawnHelper-Extra",
-  "AssemblyVersion": "1.0.0.8",
+  "AssemblyVersion": "1.0.0.9",
   "Description": "一个触发S怪用的小工具",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
@@ -13,5 +13,5 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Changelog": "- 1.0.0.6:\n\t增加了自动召宠物的功能"
+  "Changelog": ""
 }
