@@ -11,7 +11,7 @@
     "触发",
     "S怪"
   ],
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "一个触发S怪用的小工具"
 }
