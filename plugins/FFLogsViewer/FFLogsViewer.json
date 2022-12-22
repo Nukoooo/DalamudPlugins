@@ -1,8 +1,8 @@
 {
-  "Author": "Aireil",
-  "Name": "FF Logs Viewer",
+  "Author": "Aireil, Nuko",
+  "Name": "FF Logs Viewer (CN)",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.0.8.0",
+  "AssemblyVersion": "2.0.8.1",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
@@ -19,5 +19,5 @@
   ],
   "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/master/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.0.8.0:\n   Add party finder to open with feature."
+  "Changelog": "- 2.0.8.0:\n   Add party finder to open with feature.\n- 2.0.8.1:\n   Add ignore self option to open with and some smalls fixes."
 }
