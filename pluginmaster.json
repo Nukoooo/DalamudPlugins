@@ -1,12 +1,12 @@
 [
     {
-        "Author": "Aireil",
-        "Name": "FF Logs Viewer",
+        "Author": "Aireil, Nuko",
+        "Name": "FF Logs Viewer (CN)",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.0.8.0:\n   Add party finder to open with feature.",
+        "Changelog": "- 2.0.8.0:\n   Add party finder to open with feature.\n- 2.0.8.1:\n   Add ignore self option to open with and some smalls fixes.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.0.8.0",
+        "AssemblyVersion": "2.0.8.1",
         "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -26,7 +26,7 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1671696344"
+        "LastUpdate": "1671745774"
     },
     {
         "Author": "Nuko",
@@ -49,6 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1671696344"
+        "LastUpdate": "1671745774"
     }
 ]
