@@ -2,7 +2,7 @@
   "Author": "Aireil, Nuko",
   "Name": "FF Logs Viewer (CN)",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.0.8.1",
+  "AssemblyVersion": "2.1.1.0",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
@@ -12,12 +12,16 @@
     "FFLo",
     "FFL"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
   ],
   "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/master/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.0.8.0:\n   Add party finder to open with feature.\n- 2.0.8.1:\n   Add ignore self option to open with and some smalls fixes."
+  "Changelog": "- 2.1.0.0:\n   Add party view, caching, and abbreviated names (see the update message in the main window for more info).\n- 2.1.1.0:\n   Add context menu on blacklist + misc small fixes",
+  "AcceptsFeedback": true
 }
