@@ -6,7 +6,7 @@
         "Description": "一个触发S怪用的小工具, 但是底裤比较低",
         "Changelog": "",
         "InternalName": "RankSSpawnHelper-Extra",
-        "AssemblyVersion": "1.0.0.12",
+        "AssemblyVersion": "1.0.0.13",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -14,13 +14,13 @@
             "触发",
             "S怪"
         ],
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680838451"
+        "LastUpdate": "1683668210"
     }
 ]
