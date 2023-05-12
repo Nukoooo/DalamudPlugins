@@ -1,34 +1,5 @@
 [
     {
-        "Author": "Aireil, Nuko",
-        "Name": "FF Logs Viewer (CN)",
-        "Punchline": "View FF Logs ranking percentiles in-game.",
-        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.1.0.0:\n   Add party view, caching, and abbreviated names (see the update message in the main window for more info).\n- 2.1.1.0:\n   Add context menu on blacklist + misc small fixes",
-        "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.1.0",
-        "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "FFLogs",
-            "FFLog",
-            "FFLo",
-            "FFL"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/master/res/icon.png",
-        "ImageUrls": [
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1683668170"
-    },
-    {
         "Author": "Nuko",
         "Name": "S怪触发小助手",
         "Punchline": "一个触发S怪用的小工具",
@@ -49,6 +20,35 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683668170"
+        "LastUpdate": "1683929833"
+    },
+    {
+        "Author": "Aireil, Nuko",
+        "Name": "FF Logs Viewer (CN)",
+        "Punchline": "View FF Logs ranking percentiles in-game.",
+        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
+        "Changelog": "- 2.1.0.0:\n   Add party view, caching, and abbreviated names (see the update message in the main window for more info).\n- 2.1.1.0:\n   Add context menu on blacklist + misc small fixes",
+        "InternalName": "FFLogsViewer",
+        "AssemblyVersion": "2.1.1.1",
+        "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "FFLogs",
+            "FFLog",
+            "FFLo",
+            "FFL"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/master/res/icon.png",
+        "ImageUrls": [
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1683929833"
     }
 ]
