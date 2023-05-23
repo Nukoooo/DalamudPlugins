@@ -1,6 +1,25 @@
 [
     {
         "Author": "Nuko",
+        "Name": "MyPluginsArentCheat",
+        "Punchline": "say haiihaii to banned dalamud plugins uwu",
+        "Description": "say haiihaii to banned dalamud plugins uwu",
+        "InternalName": "MyPluginsArentCheat",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/MyPluginsArentCheat/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/MyPluginsArentCheat/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/MyPluginsArentCheat/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1684822363"
+    },
+    {
+        "Author": "Nuko",
         "Name": "S怪触发小助手-Extra",
         "Punchline": "一个触发S怪用的小工具, 但是底裤比较低",
         "Description": "一个触发S怪用的小工具, 但是底裤比较低",
@@ -21,6 +40,6 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683668210"
+        "LastUpdate": "1684822363"
     }
 ]
