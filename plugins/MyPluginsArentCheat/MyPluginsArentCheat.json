@@ -1,0 +1,17 @@
+{
+  "Author": "Nuko",
+  "Name": "MyPluginsArentCheat",
+  "InternalName": "MyPluginsArentCheat",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "say haiihaii to banned dalamud plugins uwu",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "say haiihaii to banned dalamud plugins uwu",
+  "AcceptsFeedback": true
+}
