@@ -5,7 +5,7 @@
         "Punchline": "say haiihaii to banned dalamud plugins uwu",
         "Description": "say haiihaii to banned dalamud plugins uwu",
         "InternalName": "MyPluginsArentCheat",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [],
@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/MyPluginsArentCheat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/MyPluginsArentCheat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684826404"
+        "LastUpdate": "1684887659"
     },
     {
         "Author": "Nuko",
@@ -40,6 +40,6 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/extra/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684826404"
+        "LastUpdate": "1684887659"
     }
 ]
