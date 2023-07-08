@@ -1,0 +1,17 @@
+{
+  "Author": "Nuko",
+  "Name": "SpectralCurrentTimer",
+  "InternalName": "SpectralCurrentTimer",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Track spectral current uptime in ocean fishing",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Track spectral current uptime in ocean fishing",
+  "AcceptsFeedback": true
+}
