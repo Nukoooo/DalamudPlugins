@@ -5,7 +5,7 @@
         "Punchline": "一个触发S怪用的小工具",
         "Description": "一个触发S怪用的小工具",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.3.2.2",
+        "AssemblyVersion": "1.3.2.3",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690056682"
+        "LastUpdate": "1690062202"
     },
     {
         "Author": "Aireil, Nuko",
@@ -49,7 +49,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690056682"
+        "LastUpdate": "1690062202"
     },
     {
         "Author": "Nuko",
@@ -68,6 +68,6 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/SpectralCurrentTimer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/SpectralCurrentTimer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690056682"
+        "LastUpdate": "1690062202"
     }
 ]
