@@ -2,7 +2,7 @@
   "Author": "Aireil, Nuko",
   "Name": "FF Logs Viewer (CN)",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.1.4.1",
+  "AssemblyVersion": "2.1.4.2",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
