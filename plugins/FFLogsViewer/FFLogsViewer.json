@@ -2,7 +2,7 @@
   "Author": "Aireil, Nuko",
   "Name": "FF Logs Viewer (CN)",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.1.4.2",
+  "AssemblyVersion": "2.1.4.4",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
@@ -15,10 +15,11 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
+    "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
+    "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
   ],
   "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/master/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.1.4.1:\n   Refresh party state when swapping to party view.\n   Add \"party\" or \"p\" argument to /fflogs to open the party view and refresh the party state.\n   Add default view setting.\n- 2.1.4.0:\n   Add cDPS metric, this new metric only works on new reports.\n",
+  "Changelog": "- 2.1.4.4:\n   Fix size issues in certain circumstances.\n- 2.1.4.3:\n   Add zone ASP when hovering over an ASP stat.\n   Fix an issue where old members would stay in group view even after a refresh.\n   Add a button to open the main window in the installer.",
   "AcceptsFeedback": true
 }
