@@ -1,44 +1,6 @@
 [
     {
         "Author": "Nuko",
-        "Name": "FishersIntuition",
-        "Punchline": "",
-        "Description": "",
-        "InternalName": "FishersIntuition",
-        "AssemblyVersion": "1.0.0.1",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [],
-        "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1697529749"
-    },
-    {
-        "Author": "Nuko",
-        "Name": "SpectralCurrentTimer",
-        "Punchline": "Track spectral current uptime in ocean fishing",
-        "Description": "Track spectral current uptime in ocean fishing",
-        "InternalName": "SpectralCurrentTimer",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [],
-        "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/SpectralCurrentTimer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/SpectralCurrentTimer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/SpectralCurrentTimer/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1697529749"
-    },
-    {
-        "Author": "Nuko",
         "Name": "S怪触发小助手",
         "Punchline": "一个触发S怪用的小工具",
         "Description": "一个触发S怪用的小工具",
@@ -58,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697529749"
+        "LastUpdate": "1698612577"
     },
     {
         "Author": "Aireil, Nuko",
@@ -85,6 +47,25 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697529749"
+        "LastUpdate": "1698612577"
+    },
+    {
+        "Author": "Nuko",
+        "Name": "FishersIntuition",
+        "Punchline": "",
+        "Description": "",
+        "InternalName": "FishersIntuition",
+        "AssemblyVersion": "1.0.0.2",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1698612577"
     }
 ]
