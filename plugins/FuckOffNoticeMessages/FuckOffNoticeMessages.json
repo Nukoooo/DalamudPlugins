@@ -1,0 +1,17 @@
+{
+  "Author": "Joe",
+  "Name": "FuckOffNoticeMessages",
+  "InternalName": "FuckOffNoticeMessages",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "Who's joe",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Who's joe",
+  "AcceptsFeedback": true
+}
