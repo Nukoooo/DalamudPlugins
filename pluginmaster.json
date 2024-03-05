@@ -16,28 +16,26 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709634280"
+        "LastUpdate": "1709640265"
     },
     {
-        "Author": "Aireil",
-        "Name": "FF Logs Viewer",
+        "Author": "Aireil, Nuko",
+        "Name": "FF Logs Viewer (CN)",
         "Punchline": "View FF Logs ranking percentiles in-game.",
-        "Description": "在游戏里查看玩家在FFLogs上的数据的插件。",
-        "Changelog": "- Add support for Endsinger Extreme\n- Fix search and host name for the Chinese client (by LittleNightmare)",
+        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
+        "Changelog": "- 2.1.4.4:\n   Fix size issues in certain circumstances.\n- 2.1.4.3:\n   Add zone ASP when hovering over an ASP stat.\n   Fix an issue where old members would stay in group view even after a refresh.\n   Add a button to open the main window in the installer.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "1.5.7.2",
+        "AssemblyVersion": "2.1.4.4",
         "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
-            "FFLogs",
-            "FFLog",
-            "FFLo",
-            "FFL"
+            "FFLogs"
         ],
-        "DalamudApiLevel": 6,
-        "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/icon.png",
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/master/res/icon.png",
         "ImageUrls": [
-            "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/banner.png"
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
         ],
         "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "IsHide": false,
@@ -45,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709634280"
+        "LastUpdate": "1709640265"
     },
     {
         "Author": "Nuko",
@@ -68,7 +66,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709634280"
+        "LastUpdate": "1709640265"
     },
     {
         "Author": "Joe",
@@ -87,6 +85,6 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709634280"
+        "LastUpdate": "1709640265"
     }
 ]
