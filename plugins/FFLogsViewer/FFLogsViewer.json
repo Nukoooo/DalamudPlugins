@@ -1,25 +1,23 @@
 {
-  "Author": "Aireil, Nuko",
-  "Name": "FF Logs Viewer (CN)",
+  "Author": "Aireil",
+  "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.1.4.4",
-  "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
+  "AssemblyVersion": "1.5.7.2",
+  "Description": "在游戏里查看玩家在FFLogs上的数据的插件。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
   "Tags": [
-    "FFLogs"
+    "FFLogs",
+    "FFLog",
+    "FFLo",
+    "FFL"
   ],
-  "DalamudApiLevel": 8,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
-    "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
+    "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/banner.png"
   ],
-  "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/master/res/icon.png",
+  "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.1.4.4:\n   Fix size issues in certain circumstances.\n- 2.1.4.3:\n   Add zone ASP when hovering over an ASP stat.\n   Fix an issue where old members would stay in group view even after a refresh.\n   Add a button to open the main window in the installer.",
-  "AcceptsFeedback": true
+  "Changelog": "- Add support for Endsinger Extreme\n- Fix search and host name for the Chinese client (by LittleNightmare)"
 }
