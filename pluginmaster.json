@@ -5,18 +5,18 @@
         "Punchline": "",
         "Description": "",
         "InternalName": "FishersIntuition",
-        "AssemblyVersion": "1.0.0.4",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709640350"
+        "LastUpdate": "1709698704"
     },
     {
         "Author": "Aireil, Nuko",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709640350"
+        "LastUpdate": "1709698704"
     },
     {
         "Author": "Nuko",
@@ -66,7 +66,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709640350"
+        "LastUpdate": "1709698704"
     },
     {
         "Author": "Joe",
@@ -74,17 +74,17 @@
         "Punchline": "Who's joe",
         "Description": "Who's joe",
         "InternalName": "FuckOffNoticeMessages",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709640350"
+        "LastUpdate": "1709698704"
     }
 ]
