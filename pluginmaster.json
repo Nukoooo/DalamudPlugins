@@ -24,6 +24,30 @@
     },
     {
         "Author": "Nuko",
+        "Name": "S怪触发小助手-Extra",
+        "Punchline": "一个触发S怪用的小工具, 但是底裤比较低",
+        "Description": "一个触发S怪用的小工具, 但是底裤比较低",
+        "Changelog": "",
+        "InternalName": "RankSSpawnHelper-Extra",
+        "AssemblyVersion": "1.0.0.15",
+        "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "S怪触发",
+            "触发",
+            "S怪"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1709701417"
+    },
+    {
+        "Author": "Nuko",
         "Name": "FishersIntuition",
         "Punchline": "",
         "Description": "",
@@ -86,5 +110,24 @@
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1709796968"
+    },
+    {
+        "Author": "Nuko",
+        "Name": "MyPluginsArentCheat",
+        "Punchline": "say haiihaii to banned dalamud plugins uwu",
+        "Description": "say haiihaii to banned dalamud plugins uwu",
+        "InternalName": "MyPluginsArentCheat",
+        "AssemblyVersion": "1.0.0.4",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/dev/plugins/MyPluginsArentCheat/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1709701417"
     }
 ]
