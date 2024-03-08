@@ -20,7 +20,26 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709796968"
+        "LastUpdate": "1709882830"
+    },
+    {
+        "Author": "Nuko",
+        "Name": "FishersIntuition",
+        "Punchline": "",
+        "Description": "",
+        "InternalName": "FishersIntuition",
+        "AssemblyVersion": "1.0.0.5",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1709882830"
     },
     {
         "Author": "Nuko",
@@ -44,26 +63,26 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709701417"
+        "LastUpdate": "1709882830"
     },
     {
         "Author": "Nuko",
-        "Name": "FishersIntuition",
-        "Punchline": "",
-        "Description": "",
-        "InternalName": "FishersIntuition",
-        "AssemblyVersion": "1.0.0.5",
+        "Name": "MyPluginsArentCheat",
+        "Punchline": "say haiihaii to banned dalamud plugins uwu",
+        "Description": "say haiihaii to banned dalamud plugins uwu",
+        "InternalName": "MyPluginsArentCheat",
+        "AssemblyVersion": "1.0.0.4",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [],
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709796968"
+        "LastUpdate": "1709882830"
     },
     {
         "Author": "Aireil, Nuko",
@@ -90,7 +109,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709796968"
+        "LastUpdate": "1709882830"
     },
     {
         "Author": "Joe",
@@ -109,25 +128,6 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709796968"
-    },
-    {
-        "Author": "Nuko",
-        "Name": "MyPluginsArentCheat",
-        "Punchline": "say haiihaii to banned dalamud plugins uwu",
-        "Description": "say haiihaii to banned dalamud plugins uwu",
-        "InternalName": "MyPluginsArentCheat",
-        "AssemblyVersion": "1.0.0.4",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [],
-        "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/dev/plugins/MyPluginsArentCheat/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1709701417"
+        "LastUpdate": "1709882830"
     }
 ]
