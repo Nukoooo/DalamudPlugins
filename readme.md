@@ -10,4 +10,4 @@
 | S怪触发小助手         | S触发计数、图内人数等 |
 | S怪触发小助手-Extra   | 一键扔垃圾开理符      |
 | FF Logs Viewer (CN)   | 立刻出警              |
-| MyPluginsArentCheat   |                       |
+| MyPluginsArentCheat   | Unban                 |
