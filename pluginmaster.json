@@ -6,7 +6,7 @@
         "Description": "一个触发S怪用的小工具, 但是底裤比较低",
         "Changelog": "",
         "InternalName": "RankSSpawnHelper-Extra",
-        "AssemblyVersion": "1.0.0.15",
+        "AssemblyVersion": "1.0.0.16",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -14,14 +14,14 @@
             "触发",
             "S怪"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1727457851"
+        "LastUpdate": "1727536184"
     },
     {
         "Author": "Nuko",
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1727457851"
+        "LastUpdate": "1727536184"
     },
     {
         "Author": "Nuko",
@@ -59,7 +59,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1727457851"
+        "LastUpdate": "1727536184"
     },
     {
         "Author": "Aireil, Nuko",
@@ -86,7 +86,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1727457851"
+        "LastUpdate": "1727536184"
     },
     {
         "Author": "Nuko",
@@ -94,7 +94,7 @@
         "Punchline": "一个触发S怪用的小工具",
         "Description": "一个触发S怪用的小工具",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.3.6.2",
+        "AssemblyVersion": "1.3.7.0",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -102,14 +102,14 @@
             "触发",
             "S怪"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1727457851"
+        "LastUpdate": "1727536184"
     },
     {
         "Author": "Joe",
@@ -128,6 +128,6 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1727457851"
+        "LastUpdate": "1727536184"
     }
 ]
