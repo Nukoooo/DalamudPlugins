@@ -1,0 +1,17 @@
+{
+  "Author": "Nuko",
+  "Name": "BetterFakeName",
+  "InternalName": "BetterFakeName",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Fake your name on UI",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Nukoooo/BetterFakeName",
+  "Tags": [],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Fake your name on UI",
+  "AcceptsFeedback": true
+}
