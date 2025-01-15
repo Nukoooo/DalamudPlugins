@@ -1,0 +1,17 @@
+{
+  "Author": "Nuko",
+  "Name": "FallGuy afk",
+  "InternalName": "FallGuy",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "去你妈的垃圾服务器判定，我就要糖豆人挂机",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Nukoooo/FallGuy",
+  "Tags": [],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "去你妈的垃圾服务器判定，我就要糖豆人挂机",
+  "AcceptsFeedback": true
+}
