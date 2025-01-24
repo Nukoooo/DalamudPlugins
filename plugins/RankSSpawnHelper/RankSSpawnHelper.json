@@ -2,20 +2,16 @@
   "Author": "Nuko",
   "Name": "S怪触发小助手",
   "InternalName": "RankSSpawnHelper",
-  "AssemblyVersion": "1.3.7.6",
-  "Description": "一个触发S怪用的小工具",
+  "AssemblyVersion": "2.0.0.0",
+  "Description": "",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
-  "Tags": [
-    "S怪触发",
-    "触发",
-    "S怪"
-  ],
+  "RepoUrl": "https://github.com/Nukoooo/BetterFakeName",
+  "Tags": [],
   "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "一个触发S怪用的小工具",
+  "Punchline": "",
   "AcceptsFeedback": true
 }
