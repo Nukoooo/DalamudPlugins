@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1745558388"
+        "LastUpdate": "1745560419"
     },
     {
         "Author": "Nuko",
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1745558388"
+        "LastUpdate": "1745560419"
     },
     {
         "Author": "Joe",
@@ -54,7 +54,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1745558388"
+        "LastUpdate": "1745560419"
     },
     {
         "Author": "Aireil, Nuko",
@@ -81,7 +81,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1745558388"
+        "LastUpdate": "1745560419"
     },
     {
         "Author": "Nuko",
@@ -105,7 +105,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1745558388"
+        "LastUpdate": "1745560419"
     },
     {
         "Author": "Nuko",
@@ -124,7 +124,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FallGuy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FallGuy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1745558388"
+        "LastUpdate": "1745560419"
     },
     {
         "Author": "Nuko",
@@ -132,18 +132,18 @@
         "Punchline": "Fake your name on UI",
         "Description": "Fake your name on UI",
         "InternalName": "BetterFakeName",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/Nukoooo/BetterFakeName",
         "ApplicableVersion": "any",
         "Tags": [],
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/BetterFakeName/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/BetterFakeName/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/BetterFakeName/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1745558388"
+        "LastUpdate": "1745560419"
     },
     {
         "Author": "Nuko",
@@ -162,6 +162,6 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1745558388"
+        "LastUpdate": "1745560419"
     }
 ]
