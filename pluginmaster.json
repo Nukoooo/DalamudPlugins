@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/BetterFakeName/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/BetterFakeName/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750760518"
+        "LastUpdate": "1750761315"
     },
     {
         "Author": "Nuko",
@@ -24,18 +24,18 @@
         "Punchline": "",
         "Description": "",
         "InternalName": "FishersIntuition",
-        "AssemblyVersion": "1.0.0.8",
+        "AssemblyVersion": "1.0.0.9",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750760518"
+        "LastUpdate": "1750761315"
     },
     {
         "Author": "Nuko",
@@ -54,7 +54,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750760518"
+        "LastUpdate": "1750761315"
     },
     {
         "Author": "Nuko",
@@ -73,7 +73,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FallGuy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FallGuy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750760518"
+        "LastUpdate": "1750761315"
     },
     {
         "Author": "Joe",
@@ -92,22 +92,22 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FuckOffNoticeMessages/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750760518"
+        "LastUpdate": "1750761315"
     },
     {
         "Author": "Aireil, Nuko",
         "Name": "FF Logs Viewer (CN)",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "-2.2.1.3\n    Add update notice for alliance swap.\n    Display alliance swap button even when not in an alliance.\n-2.2.1.2\n    Fix alliance detection upon zone in.\n-2.2.1.1\n    Fix clear cache button in party view.\n-2.2.1.0\n    Add alliance swapping to the party view.\n    Add Chaotic to the default layout.\n    Some other small fixes.\n-2.2.0.2\n    Handle FF Logs API issues more gracefully.\n-2.2.0.1\n    Add FRU to the default layout.\n-2.2.0.0\n   API 11 + 7.1 update.\n   Update the default layout.\n   Add some background improvements.",
+        "Changelog": "-2.2.2.2\n    Switch default swap of ACC to Cruiserweight.\n-2.2.2.1\n    Default layout update + 7.2 update.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.2.1.3",
+        "AssemblyVersion": "2.2.2.2",
         "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
             "FFLogs"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/master/res/icon.png",
         "ImageUrls": [
             "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
@@ -119,7 +119,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750760518"
+        "LastUpdate": "1750761315"
     },
     {
         "Author": "Nuko",
@@ -138,7 +138,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750760518"
+        "LastUpdate": "1750761315"
     },
     {
         "Author": "Nuko",
@@ -162,6 +162,6 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper-Extra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750760518"
+        "LastUpdate": "1750761315"
     }
 ]
