@@ -5,18 +5,18 @@
         "Punchline": "",
         "Description": "",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "2.0.8.0",
+        "AssemblyVersion": "2.0.10.0",
         "RepoUrl": "https://github.com/Nukoooo/BetterFakeName",
         "ApplicableVersion": "any",
         "Tags": [],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765981596"
+        "LastUpdate": "1766077277"
     },
     {
         "Author": "Aireil, Nuko",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765981596"
+        "LastUpdate": "1766077277"
     },
     {
         "Author": "Nuko",
@@ -62,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FishersIntuition/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765981596"
+        "LastUpdate": "1766077277"
     },
     {
         "Author": "Nuko",
@@ -81,7 +81,7 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FallGuy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/FallGuy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765981596"
+        "LastUpdate": "1766077277"
     },
     {
         "Author": "Nuko",
@@ -100,6 +100,6 @@
         "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/BetterFakeName/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/BetterFakeName/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765981596"
+        "LastUpdate": "1766077277"
     }
 ]
